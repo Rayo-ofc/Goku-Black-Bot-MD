@@ -93,3 +93,21 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <a href="https://github.com/Eliasivan"><img src="https://github.com/Eliasivan.png" width="250" height="250" alt="Ivan"/></a>
   
 ## `Goku-Black-Bot-MD`
+#### **`💫 AKIRAX-HOST 💫`**
+
+<a
+href="https://home.akirax.net"><img src="https://files.catbox.moe/kjmlh1.jpg" height="125px"></a>
+
+<details>
+ <summary><b> Servidor Akirax</b></summary>
+
+* Dashboard  [`Dash`](https://home.akirax.net)
+* Panel [`Panel`](https://console.akirax.net)
+* Canal de WhatsApp [`Canal Akirax`]()
+* Comunidad  [`Aquí`](https://chat.whatsapp.com/JxSZTFJN9J20TnsH7KsKTA)
+* Contacto(s) [`Matias`]()
+
+</details>
+
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
